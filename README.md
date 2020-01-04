@@ -1,2 +1,2 @@
-# canvas_demo
-Demo repository created for Terra course demo
+# first_test
+First attempt at deploying the Canvas code here
